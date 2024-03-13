@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "65ef215054cffb08737aab4d"
+  },
+  "title": "Java was developed by Moon ?",
+  "choices": [
+    "yes",
+    "no"
+  ],
+  "correct_answer": 1,
+  "_class": "com.example.survey_spring.entity.Question"
+},
+{
+  "_id": {
+    "$oid": "65ef229954cffb08737aab4e"
+  },
+  "title": "What movie was written by Wachowski sister's ?",
+  "choices": [
+    "LOTR",
+    "Matrix",
+    "Fight Club",
+    "The devil's wear Prada"
+  ],
+  "correct_answer": 1,
+  "_class": "com.example.survey_spring.entity.Question"
+},
+{
+  "_id": {
+    "$oid": "65ef22fd54cffb08737aab4f"
+  },
+  "title": "Who is the author of the novel '1984'?",
+  "choices": [
+    "George Orwell",
+    "J.K. Rowling",
+    "Stephen King",
+    "Jane Austen"
+  ],
+  "correct_answer": 0,
+  "_class": "com.example.survey_spring.entity.Question"
+},
+{
+  "_id": {
+    "$oid": "65ef231854cffb08737aab50"
+  },
+  "title": "What is the capital city of Australia?",
+  "choices": [
+    "Sydney",
+    "Canberra",
+    "Melbourne",
+    "Perth"
+  ],
+  "correct_answer": 1,
+  "_class": "com.example.survey_spring.entity.Question"
+},
+{
+  "_id": {
+    "$oid": "65ef233754cffb08737aab51"
+  },
+  "title": "Who is the creator of the TV series 'Breaking Bad'?",
+  "choices": [
+    "Vince Gilligan",
+    "David Chase",
+    "Matthew Weiner",
+    "J.J. Abrams"
+  ],
+  "correct_answer": 0,
+  "_class": "com.example.survey_spring.entity.Question"
+},
+{
+  "_id": {
+    "$oid": "65ef234b54cffb08737aab52"
+  },
+  "title": "Which family's motto is 'Winter is Coming' in 'Game of Thrones'?",
+  "choices": [
+    "Stark",
+    "Lannister",
+    "Targaryen",
+    "Baratheon"
+  ],
+  "correct_answer": 0,
+  "_class": "com.example.survey_spring.entity.Question"
+},
+{
+  "_id": {
+    "$oid": "65ef237d54cffb08737aab53"
+  },
+  "title": "Which song is NOT by Led Zeppelin?",
+  "choices": [
+    "Stairway to Heaven",
+    "Bohemian Rhapsody",
+    "Whole Lotta Love",
+    "Kashmir"
+  ],
+  "correct_answer": 1,
+  "_class": "com.example.survey_spring.entity.Question"
+}]

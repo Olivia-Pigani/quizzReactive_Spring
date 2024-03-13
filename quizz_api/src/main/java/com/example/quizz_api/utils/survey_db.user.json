@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "65ef13ea263b9045fecbcfbc"
+  },
+  "user_name": "dan",
+  "_class": "com.example.survey_spring.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65ef23bb54cffb08737aab55"
+  },
+  "user_name": "Claire14",
+  "_class": "com.example.survey_spring.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65ef23c454cffb08737aab56"
+  },
+  "user_name": "Fred",
+  "_class": "com.example.survey_spring.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65ef23cc54cffb08737aab57"
+  },
+  "user_name": "Achref",
+  "_class": "com.example.survey_spring.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65ef23e754cffb08737aab58"
+  },
+  "user_name": "McCoco",
+  "_class": "com.example.survey_spring.entity.User"
+},
+{
+  "_id": {
+    "$oid": "65ef240254cffb08737aab59"
+  },
+  "user_name": "dédé",
+  "_class": "com.example.survey_spring.entity.User"
+}]
